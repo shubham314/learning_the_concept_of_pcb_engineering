@@ -1,0 +1,5 @@
+transformer
+diode rectifier
+polarised capacitors
+linear regulator 9 volt   lm7809 
+pinheads
